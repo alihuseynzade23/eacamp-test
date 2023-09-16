@@ -1,0 +1,13 @@
+#container {
+    width: 100%;
+    margin: 0 auto;
+    max-width: 500px;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  select {
+    width: 150px;
+    height: 200px;
+  }
+  
